@@ -1,4 +1,4 @@
-# Java Projects
+# Projects at Encore
 
 This repository contains a series of projects conducted while in a government-sponsored big-data bootcamp.  
 Please refer to the explanation for each project written below.
