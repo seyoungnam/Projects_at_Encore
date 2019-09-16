@@ -15,7 +15,7 @@ Please refer to the explanation for each project written below.
   - a two-people team project taken about three days 
  
  
-**3. Step14_TeamProject**
+**3. MBA Counseling System**
   - a virtual MBA counseling system to draw best MBA programs according to an applicant's needs
   - a two-people team project taken about a week
   - failed to finalize the project due to time constraints
