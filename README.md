@@ -22,7 +22,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928216-6c3d5e00-541c-11ea-9de0-f9ed262d4e69.png)
 <br>  
  
-## 3. MBA Counseling System**
+## 3. MBA Counseling System
   - **A counseling system to draw the best MBA program reflecting an applicant's needs**
   - **Java (MVC pattern), Lombok, JSOUP, JDBC(SQL), Bureau of Economic Analysis API**
   - **Two members / A week**
@@ -31,7 +31,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928258-82e3b500-541c-11ea-8b6b-f7fc0fbbd499.png)
  <br> 
  
-## 4. Your Choice**
+## 4. Your Choice
   - **A set of survey to test which artworks would be more appreciated between AI-painted artworks and human-painted ones**
   - **Java (MVC pattern), Lombok, HTML, CSS, JDBC(SQL), PLSQL, JavaScript, JSP, Json, Google Chart **
   - **the overall voting results can be traced and presented in google charts in an admin account**
@@ -41,7 +41,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928337-a4dd3780-541c-11ea-815a-21bd17dfa432.png)
 <br> 
 
-## 5. Traveling by Rote**
+## 5. Traveling by Rote
   - **A web application providing locations deserve to visit in Korea, with visitors’ comments from Instagram**
   - **Java Spring boot, MySQL, ElasticSearch, Jsoup, Selenium, Kakao Map API, HTML5, CSS, JS**
   - **Five members / Two weeks**
@@ -50,7 +50,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928466-e837a600-541c-11ea-9c34-edd96ab31b95.png)
  <br>  
   
-## 6. On Time**
+## 6. On Time
   - **Time management web app enabling to check the details of the meeting and to confirm each participant’s current location**
   - **Java Spring boot, MariaDB, OAUTH2, Axios, HTML5, CSS, JS, Vue.js**
   - **Five members / Two weeks**
@@ -59,7 +59,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928521-01d8ed80-541d-11ea-83df-ad53ed7cc011.png)
 <br> 
  
-## 7. Telegram Bot**
+## 7. Telegram Bot
   - **A Telegram bot able to retrieve up to ten current news about the company that you type in**
   - **Java, JPA, MySQL, Telegram API, Selenium**
   - **Five members / Three days**
@@ -68,7 +68,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928572-19b07180-541d-11ea-9ad2-c631b1a91641.png)
  <br> 
 
-## 8. Fake News**
+## 8. Fake News
   - **Quantified the number of vague or unclear expressions per each newspaper or media and visualized the reliability of contents among them**
   - **Java, Hadoop (map reduce)**
   - **Two members / One day**
