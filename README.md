@@ -4,8 +4,9 @@ This repository contains a series of projects conducted in a government-sponsore
 Please refer to the explanation for each project written below.
 
 <br> 
+<br> 
 
-## 1. step04_miniProject
+## 1. Mini Voca Notebook
   - **A concise English word notebook in which CRUD function is embodied**
   - **Java (MVC pattern)**
   - **the first project using Java language conducted by myself / one day**
@@ -31,7 +32,7 @@ Please refer to the explanation for each project written below.
   ![image](https://user-images.githubusercontent.com/45421327/74928258-82e3b500-541c-11ea-8b6b-f7fc0fbbd499.png)
  <br> 
  
-## 4. Your Choice
+## 4. Human vs Machine in Art
   - **A set of survey to test which artworks would be more appreciated between AI-painted artworks and human-painted ones**
   - **Java (MVC pattern), Lombok, HTML, CSS, JDBC(SQL), PLSQL, JavaScript, JSP, Json, Google Chart **
   - **the overall voting results can be traced and presented in google charts in an admin account**
@@ -69,7 +70,7 @@ Please refer to the explanation for each project written below.
  <br> 
 
 ## 8. Fake News
-  - **Quantified the number of vague or unclear expressions per each newspaper or media and visualized the reliability of contents among them**
+  - **Measured the number of vague or unclear expressions per each newspaper or media, and visualized the reliability of contents among them**
   - **Java, Hadoop (map reduce)**
   - **Two members / One day**
   
